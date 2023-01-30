@@ -14,7 +14,7 @@
     top: 50%;
     left: 50%;
   }
-  container {
+  .container {
     width: 100%;
     background-color: #f43543;
     padding: 50px 40px;

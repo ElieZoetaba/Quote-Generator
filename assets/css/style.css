@@ -38,4 +38,10 @@
     line-height: 2;
     font-size: 18px;
   }
+  .container h3 {
+    color: #ffffff;
+    margin: 20px 0 60px 0;
+    font-weight: 600;
+    text-transform: capitalize;
+  }
   
